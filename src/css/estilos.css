@@ -1,6 +1,7 @@
 body {
     font-family: 'Squealer', serif;
     background-image: url("../imagens/fundo-site.jpg");
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
